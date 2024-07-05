@@ -35,24 +35,24 @@ const Footer = () => {
           <div>
             <a
               href="https://www.linkedin.com/in/rishi-aryan-52969a213/"
-              className=""
+            
             >
               <Image src="https://seeklogo.com/images/L/linkedin-logo-A6EF048412-seeklogo.com.png" />
             </a>
           </div>
           <div>
-            <a href="https://www.instagram.com/_rishi_aryan_" className="">
+            <a href="https://www.instagram.com/_rishi_aryan_">
               <Image src="https://i.pinimg.com/736x/7f/7b/87/7f7b872e56430e68d69538b17525c51c.jpg" />
             </a>
           </div>
 
           <div>
-            <a href="https://x.com/rishiarya1201" className="">
+            <a href="https://x.com/rishiarya1201">
               <Image src="https://img.freepik.com/premium-vector/vector-twitters-new-2023-x-logo-white-background_1093524-454.jpg?size=338&ext=jpg&ga=GA1.1.2116175301.1718236800&semt=ais_user" />
             </a>
           </div>
           <div>
-            <a href="https://github.com/RishiAryan1201" className="">
+            <a href="https://github.com/RishiAryan1201">
               <Image src="https://cdn.icon-icons.com/icons2/2389/PNG/512/github_logo_icon_145252.png" />
             </a>
           </div>
